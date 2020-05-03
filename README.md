@@ -1,2 +1,2 @@
 # djangoo
-djangoo website
+My first project of Django website
